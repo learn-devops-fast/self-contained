@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mcnz.rps.spring</groupId>
-	<artifactId>roshambo</artifactId>
+	<artifactId>rawk-paper-skissors</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>roshambo</name>
+	<name>rawk-paper-skissors</name>
 	<description>rock-paper-scissors spring boot app</description>
 
 	<parent>
