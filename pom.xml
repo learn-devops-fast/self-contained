@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mcnz.rps.spring</groupId>
-	<artifactId>roshambo</artifactId>
+	<artifactId>rawk-paper-skissors</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>roshambo</name>
+	<name>rawk-paper-skissors</name>
 	<description>rock-paper-scissors spring boot app</description>
 
 	<parent>
@@ -76,6 +76,16 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+
+		<!--<plugin>
+        		<groupId>org.apache.maven.plugins</groupId>
+        		<artifactId>maven-compiler-plugin</artifactId>
+       			 <version>2.3.2</version>
+       			 <configuration>
+         			<source>1.8</source>
+         			<target>1.8</target>
+        		</configuration>
+      		</plugin>-->
 			
 			<plugin>
 			    <groupId>com.spotify</groupId>
